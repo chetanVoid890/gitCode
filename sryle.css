@@ -1,6 +1,18 @@
 h1 {
   color: red;
   font-size: 10px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 100;
+}
+
+h2 {
+  color: blue;
+}
+h3 {
+  color: red;
+}
+h4 {
+  color: pink;
 }
 h4 {
   color: pink;

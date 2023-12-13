@@ -1,7 +1,30 @@
 h1 {
   color: red;
   font-size: 10px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 100;
+}
+
+h2 {
+  color: blue;
+  font-size: 10;
+}
+h3 {
+  color: red;
+  font-size: 20;
 }
 h4 {
   color: pink;
+  font-size: 30;
+}
+h4 {
+  color: pink;
+}
+
+h7 {
+  color: lightblue;
+}
+
+P {
+  height: 10px;
 }
